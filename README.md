@@ -8,5 +8,5 @@
 
 
 
-![nav](https://user-images.githubusercontent.com/56070695/118176200-bc07ab00-b44e-11eb-8312-57c772ba7518.png)
-![cart](https://user-images.githubusercontent.com/56070695/118176203-bd38d800-b44e-11eb-8412-eef81f0dc962.png)
+![cart](https://user-images.githubusercontent.com/56070695/118183642-f590e400-b457-11eb-80b0-6957282cf333.png)
+![nav](https://user-images.githubusercontent.com/56070695/118183650-f75aa780-b457-11eb-8af5-95d02ab1d608.png)
